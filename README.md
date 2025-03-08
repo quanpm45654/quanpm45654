@@ -1,6 +1,6 @@
-## Hi there 👋
-
 <!--
+# Hi there 👋
+
 **quanpm45654/quanpm45654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Skills
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,java,spring,cs,dotnet&theme=light)
