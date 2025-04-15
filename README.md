@@ -1,2 +1,2 @@
-# Skills learned
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,c&theme=light)](https://skillicons.dev)
+# Skills Learned
+[![My Skills](https://skillicons.dev/icons?i=c,java,cs&theme=light)](https://skillicons.dev)
